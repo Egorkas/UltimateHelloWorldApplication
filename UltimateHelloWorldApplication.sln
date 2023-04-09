@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UltimateHelloWorldApplication", "UltimateHelloWorldApplication\UltimateHelloWorldApplication.csproj", "{D916CE70-1AAD-4C0F-910B-8D23FD88D374}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorldLibrary", "HelloWorldLibrary\HelloWorldLibrary.csproj", "{558DE99C-F8A5-40DF-95D4-65C5B478DA8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorldTests", "HelloWorldTests\HelloWorldTests.csproj", "{847311AF-EA8C-473F-80D6-A18B74F33767}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D916CE70-1AAD-4C0F-910B-8D23FD88D374}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D916CE70-1AAD-4C0F-910B-8D23FD88D374}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D916CE70-1AAD-4C0F-910B-8D23FD88D374}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D916CE70-1AAD-4C0F-910B-8D23FD88D374}.Release|Any CPU.Build.0 = Release|Any CPU
+		{558DE99C-F8A5-40DF-95D4-65C5B478DA8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{558DE99C-F8A5-40DF-95D4-65C5B478DA8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{558DE99C-F8A5-40DF-95D4-65C5B478DA8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{558DE99C-F8A5-40DF-95D4-65C5B478DA8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{847311AF-EA8C-473F-80D6-A18B74F33767}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{847311AF-EA8C-473F-80D6-A18B74F33767}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{847311AF-EA8C-473F-80D6-A18B74F33767}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{847311AF-EA8C-473F-80D6-A18B74F33767}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
